@@ -1,5 +1,10 @@
 # FSTS
 [NeurIPS 2025] Toward Real-world Text Image Forgery Localization: Structured and Interpretable Data Synthesis
 
-The current FSTS version was self-funded. We plan to advance toward FSTS v3, featuring larger scale and richer tampering diversity.
-We welcome research or funding support: kimjyu@foxmail.com
+
+---
+
+### 🌍 Support Future FSTS Development
+The **FSTS dataset** has been entirely developed through self-funded effort.  
+To extend it into **FSTS vX** with more realistic and diverse tampering scenarios, we are looking for research partners or sponsors interested in supporting this work.  
+📧 **Contact:** kimjyu@foxmail.com
