@@ -5,4 +5,4 @@
 ---
 
 ## 🌍 Support Future FSTS Development
-The FSTS dataset has been primarily developed through self-funded effort. To extend it into **FSTS vX** with more realistic and diverse tampering scenarios, we are looking for research partners or sponsors interested in supporting this work.
+The FSTS dataset has been primarily developed through self-funded effort. We are now preparing **FSTS vX**, with expanded scale and richer tampering diversity. If you are interested in supporting or collaborating, please reach out: kimjyu@foxmail.com
