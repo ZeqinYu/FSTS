@@ -2,7 +2,7 @@
 [NeurIPS 2025] Toward Real-world Text Image Forgery Localization: Structured and Interpretable Data Synthesis
 
 ## 📦 Dataset Access
-The **FSTS dataset** is publicly available for research use on the following platforms: **[Kaggle](https://www.kaggle.com/datasets/zeqinyu/fsts-dataset)** or **[Hugging Face](https://huggingface.co/datasets/zeqinyu/FSTS)**
+The **FSTS dataset** is publicly available for research use on the following platforms: **[Kaggle]()** or **[Hugging Face]()**
 
 
 ## 🌍 Future FSTS Development
