@@ -1,4 +1,4 @@
-# FSTS
+# FSTS (Fourier Series-based Tampering Synthesis)
 Official implementation of FSTS from our NeurIPS 2025 paper “Toward Real-world Text Image Forgery Localization: Structured and Interpretable Data Synthesis”.
 
 ## 📦 Dataset Access
