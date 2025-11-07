@@ -1,5 +1,5 @@
 # FSTS
-[NeurIPS 2025] Toward Real-world Text Image Forgery Localization: Structured and Interpretable Data Synthesis
+Official implementation of FSTS from our NeurIPS 2025 paper “Toward Real-world Text Image Forgery Localization: Structured and Interpretable Data Synthesis”.
 
 ## 📦 Dataset Access
 The FSTS dataset is publicly available on the following platforms: [Kaggle]() and [Hugging Face]().
