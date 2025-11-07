@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/17d8d879-2c15-480d-a716-e891d6dadc3e
 https://github.com/user-attachments/assets/b1719361-a3b9-4926-8a6f-3bf9280492ae
 
 
-## 🌍 Future FSTS Development
-The FSTS dataset has been primarily developed through self-funded effort. We are now preparing **FSTS vX**, with expanded scale and richer tampering diversity. If you are interested in supporting or collaborating, please reach out: kimjyu@foxmail.com.
+## 🌍 Support Future FSTS Development
+The FSTS dataset has been primarily developed through self-funded effort. We are now preparing **FSTS vX**, with expanded scale and richer tampering diversity. If you are interested in **supporting or collaborating**, please reach out: kimjyu@foxmail.com.
 
 
