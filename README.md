@@ -8,10 +8,12 @@ The FSTS dataset is publicly available on the following platforms: [Kaggle]() an
 Below are several examples showing the *automatic synthesis pipeline* of FSTS, which collects and models real-world tampering parameters to synthesize samples with the _replacement_ operation.
 
 ### Example1
-https://github.com/user-attachments/assets/1a79f859-f328-4486-9e30-be262e1ce6eb
+https://github.com/user-attachments/assets/d627d363-8983-44f4-affe-0b87f9ea7343
+
 
 ### Example2
 https://github.com/user-attachments/assets/062d52df-9823-4b7d-a685-48b1f53ae90b
+
 
 ### Example3
 https://github.com/user-attachments/assets/af99bc7f-c8f3-4121-9179-3ccace9760af
