@@ -5,7 +5,7 @@
 The FSTS dataset is publicly available on the following platforms: [Kaggle]() and [Hugging Face]().
 
 ## Examples of FSTS Synthesis Process
-Below are several examples showing the synthesis process of FSTS-generated samples with the _replacement_ operation.
+Below are several examples showing the *automatic synthesis process* of FSTS-generated samples with the _replacement_ operation.
 
 ### Example1
 https://github.com/user-attachments/assets/eb91415a-3b85-4ba9-b138-53217c1ca4a0
