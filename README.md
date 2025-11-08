@@ -2,7 +2,7 @@
 Official implementation of Fourier Series-based Tampering Synthesis (FSTS) from our NeurIPS 2025 paper “Toward Real-world Text Image Forgery Localization: Structured and Interpretable Data Synthesis”.
 
 ## 📰 News
-* **[2025.11.07]** 🔥 We have released video samples that showcase the full implementation pipeline of FSTS.
+* **[2025.11.07]** 🔥 We have released video samples that showcase the implementation pipeline of FSTS.
 
 
 ## 📦 Dataset Access
