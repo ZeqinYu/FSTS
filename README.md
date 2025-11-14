@@ -9,7 +9,7 @@ Official implementation of Fourier Series-based Tampering Synthesis (FSTS) from 
 
 
 ## 📦 Dataset Access
-The FSTS dataset is publicly available on the following platforms: [Kaggle]() and [Hugging Face]().
+The FSTS dataset is publicly available on the following platforms: [Hugging Face](https://huggingface.co/datasets/Zegkim/FSTS).
 
 ## 🧩 Examples of FSTS Synthesis Process
 Below are several examples showing the *automatic synthesis pipeline* of FSTS, which collects and models real-world tampering parameters to synthesize samples with the _replacement_ operation.
