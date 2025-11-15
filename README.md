@@ -27,6 +27,8 @@ https://github.com/user-attachments/assets/d31570d1-694a-4a76-af18-a51f59d45d85
 
 ## ✍️ Citation
 ```bibtex
-xxx.
-
-
+@inproceedings{yutoward,
+  title={Toward Real-world Text Image Forgery Localization: Structured and Interpretable Data Synthesis},
+  author={Yu, Zeqin and Xie, Haotao and Zhang, Jian and Ni, Jiangqun and Su, Wenkang and Huang, Jiwu},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems Datasets and Benchmarks Track}
+}
