@@ -9,9 +9,10 @@ Official implementation of Fourier Series-based Tampering Synthesis (FSTS) from 
 * **[2025.11.14]** 🚀 The FSTS dataset is publicly available on the following platforms: [Hugging Face](https://huggingface.co/datasets/Zegkim/FSTS).
 * **[2025.11.07]** 🔥 We have released video samples that showcase the implementation pipeline of FSTS.
 
-  <details open>
-  <summary>✨ We also have other Text Image Forgery Forensics projects that may interest you</summary>
-  <p>
+
+<details open>
+<summary>✨ We also have other Text Image Forgery Forensics projects that may interest you</summary>
+<p>
 
 > [**Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization (AAAI 2025 Oral)**](https://arxiv.org/abs/2504.05224) <br>
 > Zeqin Yu, Jiangqun Ni, Jian Zhang, Haoyi Deng, Yuzhen Lin <br>
@@ -21,7 +22,7 @@ Official implementation of Fourier Series-based Tampering Synthesis (FSTS) from 
 > Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng <br>
 > 📌 This work were partially adopted to support the [“2022 Real-World Image Forgery Detection Challenge”(真实场景篡改图像检测挑战赛)](https://tianchi.aliyun.com/competition/entrance/531945).** <br>
 
-  </p>
+</p>
 </details>
 
 
