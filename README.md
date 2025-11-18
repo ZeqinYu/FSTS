@@ -5,6 +5,7 @@ Official implementation of Fourier Series-based Tampering Synthesis (FSTS) from 
 > The FSTS dataset has been primarily developed through self-funded effort. We are now preparing **FSTS vX**, with expanded scale and richer tampering diversity. If you are interested in **supporting or collaborating**, please reach out: kimjyu@foxmail.com.  
 
 ## 📰 News
+* **[2025.11.18]** 🚀 We have released the [arXiv version](https://arxiv.org/abs/2511.12658), with additional experiments and analyses included in the appendix.
 * **[2025.11.07]** 🔥 We have released video samples that showcase the implementation pipeline of FSTS.
 
 
