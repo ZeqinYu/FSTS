@@ -16,7 +16,7 @@ Official implementation of Fourier Series-based Tampering Synthesis (FSTS) from 
 
 > [**Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization (AAAI 2025 Oral)**](https://arxiv.org/abs/2504.05224) <br>
 > Zeqin Yu, Jiangqun Ni, Jian Zhang, Haoyi Deng, Yuzhen Lin <br>
-> 🏆 This method achieved [1st Place × 2](https://github.com/ZeqinYu/ICCV-DeepID2025-Sunlight) in both *Detection Track* and *Localization Track* of the [ICCV 2025 DeepID Challenge](https://deepid-iccv.github.io/). <br>
+> 🏆 This method achieved [1st Place × 2](https://github.com/ZeqinYu/ICCV-DeepID2025-Sunlight) in both *Detection Track* and *Localization Track* of the [ICCV 2025 DeepID Challenge](https://deepid-iccv.github.io/) (Team: Sunlight). <br>
 
 > [**Learning to Locate the Text Forgery in Smartphone Screenshots (ICASSP 2023)**](https://ieeexplore.ieee.org/abstract/document/10095070) <br>
 > Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng <br>
