@@ -20,7 +20,7 @@ Official implementation of Fourier Series-based Tampering Synthesis (FSTS) from 
 
 > [**Learning to Locate the Text Forgery in Smartphone Screenshots (ICASSP 2023)**](https://ieeexplore.ieee.org/abstract/document/10095070) <br>
 > Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng <br>
-> 📌 This work were partially adopted to support the [“2022 Real-World Image Forgery Detection Challenge”(真实场景篡改图像检测挑战赛)](https://tianchi.aliyun.com/competition/entrance/531945).** <br>
+> 📌 This work introduced the first real-world screenshot forgery dataset,  which was later adopted in the [“2022 Real-World Image Forgery Detection Challenge” (真实场景篡改图像检测挑战赛)](https://tianchi.aliyun.com/competition/entrance/531945). <br>
 
 </p>
 </details>
