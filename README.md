@@ -11,7 +11,7 @@ Official implementation of Fourier Series-based Tampering Synthesis (FSTS) from 
 
 
 <details open>
-<summary>✨ We also have other Text Image Forgery Forensics projects that may interest you</summary>
+<summary>✨ We also have other Text Image Forgery Forensics projects that may interest you:</summary>
 <p>
 
 > [**Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization (AAAI 2025 Oral)**](https://arxiv.org/abs/2504.05224) <br>
