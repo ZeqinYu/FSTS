@@ -1,5 +1,5 @@
 # FSTS 
-Official implementation of Fourier Series-based Tampering Synthesis (FSTS) from our NeurIPS 2025 paper “[Toward Real-world Text Image Forgery Localization: Structured and Interpretable Data Synthesis](https://arxiv.org/abs/2511.12658)”. <br>
+Official implementation of Fourier Series-based Tampering Synthesis (FSTS) from our NeurIPS 2025 paper “Toward Real-world Text Image Forgery Localization: Structured and Interpretable Data Synthesis”. <br>
 [![arXiv](https://img.shields.io/badge/Arxiv-2511.12658-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2511.12658) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/datasets/Zegkim/FSTS)
 
 > 🌍 **Future FSTS Development**  
