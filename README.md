@@ -23,7 +23,7 @@ Zeqin Yu, Haotao Xie, Jian Zhang, Jiangqun Ni, Wenkang Su, Jiwu Huang
 > 🏆 This method achieved [1st Place × 2](https://github.com/ZeqinYu/ICCV-DeepID2025-Sunlight) in both *Detection Track* and *Localization Track* of the [ICCV 2025 DeepID Challenge](https://deepid-iccv.github.io/) (Team: Sunlight). <br>
 
 > **Learning to Locate the Text Forgery in Smartphone Screenshots (ICASSP 2023)** <br> 
-> [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/STFL-Net) [![Paper](https://img.shields.io/badge/Paper-PDF-informational)](https://ieeexplore.ieee.org/abstract/document/10095070/) [![New Benchmark](https://img.shields.io/badge/New-Benchmark-red)](https://github.com/ZeqinYu/STFL-Net) <br> 
+> [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/STFL-Net) [![Paper](https://img.shields.io/badge/Paper-PDF-informational)](https://ieeexplore.ieee.org/abstract/document/10095070/) <br> 
 > Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng <br>
 > 📌 This work introduced [the first real-world screenshot forgery dataset](https://github.com/ZeqinYu/STFL-Net),  which was later adopted in the [“2022 Real-World Image Forgery Detection Challenge” (真实场景篡改图像检测挑战赛)](https://tianchi.aliyun.com/competition/entrance/531945). <br>
 
